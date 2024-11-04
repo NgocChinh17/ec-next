@@ -1,12 +1,14 @@
+"use client"
 import React from "react"
 import { Image } from "antd"
 
-import { BannerPromotion } from "../banner/banber"
+import { BannerPromotion } from "../banner/BannerPromotion"
 
 import homePage1 from "../../../public/assets/image/homePage1.webp"
 import paypalHomepage from "../../../public/assets/image/paypalHomepage.webp"
 import sieutoc2h from "../../../public/assets/image/sieutoc2h.webp"
 import camketHomepage from "../../../public/assets/image/camketHomepage.webp"
+import BannerNewArrival from "../banner/BannerNewArrival"
 
 const Home = () => {
   return (
@@ -60,8 +62,8 @@ const Home = () => {
           </div>
         </div>
       </div>
-
       <BannerPromotion />
+      <BannerNewArrival />
     </>
   )
 }

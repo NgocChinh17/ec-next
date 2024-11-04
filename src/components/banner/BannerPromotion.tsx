@@ -40,7 +40,7 @@ export const BannerPromotion = () => {
                 width="100%"
               />
               <div style={{ marginTop: 10 }}>
-                <h2>Dầu gọi Keratin Smooth</h2>
+                <h2 style={{ fontSize: 20 }}>Dầu gọi Keratin Smooth</h2>
                 <h3>
                   <div>giảm Giá: 250.000 vnd</div>
                   <div>Giá: 200.000 vnd</div>
@@ -57,7 +57,7 @@ export const BannerPromotion = () => {
                 width="100%"
               />
               <div style={{ marginTop: 10 }}>
-                <h2>Dầu gọi Keratin Smooth</h2>
+                <h2 style={{ fontSize: 20 }}>Dầu gọi Keratin Smooth</h2>
                 <h3>
                   <div>giảm Giá: 250.000 vnd</div>
                   <div>Giá: 200.000 vnd</div>
@@ -74,7 +74,7 @@ export const BannerPromotion = () => {
                 width="100%"
               />
               <div style={{ marginTop: 10 }}>
-                <h2>Dầu gọi Keratin Smooth</h2>
+                <h2 style={{ fontSize: 20 }}>Dầu gọi Keratin Smooth</h2>
                 <h3>
                   <div>giảm Giá: 250.000 vnd</div>
                   <div>Giá: 200.000 vnd</div>
