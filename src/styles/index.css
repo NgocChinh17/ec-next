@@ -15,3 +15,7 @@
 .slick-dots.slick-dots-bottom button {
   color: transparent !important;
 }
+
+.ant-card-body {
+  display: none !important;
+}

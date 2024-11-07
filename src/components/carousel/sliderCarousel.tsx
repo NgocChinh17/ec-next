@@ -16,6 +16,7 @@ const SliderCarousel = () => {
   const onChange = (currentSlide: number) => {
     console.log(currentSlide)
   }
+
   return (
     <>
       <Carousel
